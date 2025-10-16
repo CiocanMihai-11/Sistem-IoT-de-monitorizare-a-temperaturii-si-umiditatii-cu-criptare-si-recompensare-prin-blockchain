@@ -1,2 +1,2 @@
-# Sistem-IoT-de-monitorizare-a-temperaturii-i-umidit-ii-cu-criptare-i-recompensare-prin-blockchain
+# Sistem-IoT-de-monitorizare-a-temperaturii-si-umiditaii-cu-criptare-si-recompensare-prin-blockchain
 Proiectul folosește microcontrollerul STM32F103C8T6 pentru achiziția datelor de la senzori de temperatură și umiditate. Informațiile sunt procesate local, criptate cu AES-GCM și transmise prin protocolul HTTPS/TLS către o instanță cloud. În cloud, datele sunt verificate și integrate într-un sistem blockchain, care oferă recompense în tokeni ERC-20.
